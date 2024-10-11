@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'miBlog',
-]
+    'webInicio',
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
